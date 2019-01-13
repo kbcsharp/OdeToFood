@@ -1,0 +1,14 @@
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/bin/Debug/netcoreapp2.2/OdeToFood.deps.json
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/bin/Debug/netcoreapp2.2/OdeToFood.runtimeconfig.json
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/bin/Debug/netcoreapp2.2/OdeToFood.runtimeconfig.dev.json
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/bin/Debug/netcoreapp2.2/OdeToFood.dll
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/bin/Debug/netcoreapp2.2/OdeToFood.pdb
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.csprojAssemblyReference.cache
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.csproj.CoreCompileInputs.cache
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.RazorAssemblyInfo.cache
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.RazorAssemblyInfo.cs
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.AssemblyInfoInputs.cache
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.AssemblyInfo.cs
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.RazorTargetAssemblyInfo.cache
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.dll
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.pdb
