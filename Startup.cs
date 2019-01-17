@@ -5,9 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using OdeToFood.Services;
 
 namespace OdeToFood
 {
@@ -18,7 +21,10 @@ namespace OdeToFood
     public void ConfigureServices(IServiceCollection services)
     {
       services.AddSingleton<IGreeter, Greeter>();
-      services.AddMvc();
+      services.AddScoped<IRestaurantData, InMemoryRestaurantData>();
+      services.AddMvc()
+      // (options => options.EnableEndpointRouting = false)
+      .SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -33,7 +39,7 @@ namespace OdeToFood
       // app.UseDefaultFiles();
       app.UseStaticFiles();
 
-      app.UseMvcWithDefaultRoute();
+      app.UseMvc(ConfigureRoutes);
 
 
       // app.Use(next =>
@@ -66,6 +72,12 @@ namespace OdeToFood
         var greeting = greeter.GetMessageOfTheDay();
         await context.Response.WriteAsync($"{greeting} : {env.EnvironmentName}");
       });
+    }
+
+    private void ConfigureRoutes(IRouteBuilder routeBuilder)
+    {
+      routeBuilder.MapRoute("Default",
+         "{controller=Home}/{action=Index}/{id?}");
     }
   }
 }

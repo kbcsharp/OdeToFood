@@ -12,3 +12,12 @@
 /Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.RazorTargetAssemblyInfo.cache
 /Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.dll
 /Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.pdb
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/bin/Debug/netcoreapp2.2/OdeToFood.Views.dll
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/bin/Debug/netcoreapp2.2/OdeToFood.Views.pdb
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.TagHelpers.input.cache
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.TagHelpers.output.cache
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.RazorCoreGenerate.cache
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.RazorTargetAssemblyInfo.cs
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.Views.pdb
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.csproj.CopyComplete
