@@ -21,3 +21,4 @@
 /Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.RazorTargetAssemblyInfo.cs
 /Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.Views.pdb
 /Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/OdeToFood.csproj.CopyComplete
+/Users/KentCarlyleII/repos/GitHub/OdeToFood/obj/Debug/netcoreapp2.2/Razor/Views/Home/Details.g.cshtml.cs
